@@ -1,0 +1,140 @@
+{
+    "_internal": {
+        "pubDateTime": "2020-01-31 21:24:32.330 EST",
+        "igorPath": "S3,1580523862799,1580523865509|router,1580523865509,1580523865512|domUpdater,1580523869553,1580523872199|feedProducer,1580523872306,1580523872332",
+        "xslt": "NBA/xsl/game/playbyplay/marty_lead_tracker.xsl",
+        "xsltForceRecompile": "true",
+        "xsltInCache": "false",
+        "xsltCompileTimeMillis": "14",
+        "xsltTransformTimeMillis": "3",
+        "consolidatedDomKey": "prod__transform__marty_lead_tracker__2352901611614",
+        "endToEndTimeMillis": "9533"
+    },
+    "plays": [
+        {
+            "clock": "11:34",
+            "leadTeamId": "1610612761",
+            "points": "15"
+        },
+        {
+            "clock": "11:12",
+            "leadTeamId": "1610612761",
+            "points": "13"
+        },
+        {
+            "clock": "09:59",
+            "leadTeamId": "1610612761",
+            "points": "12"
+        },
+        {
+            "clock": "09:46",
+            "leadTeamId": "1610612761",
+            "points": "15"
+        },
+        {
+            "clock": "08:41",
+            "leadTeamId": "1610612761",
+            "points": "13"
+        },
+        {
+            "clock": "08:24",
+            "leadTeamId": "1610612761",
+            "points": "14"
+        },
+        {
+            "clock": "08:24",
+            "leadTeamId": "1610612761",
+            "points": "15"
+        },
+        {
+            "clock": "08:14",
+            "leadTeamId": "1610612761",
+            "points": "14"
+        },
+        {
+            "clock": "08:14",
+            "leadTeamId": "1610612761",
+            "points": "13"
+        },
+        {
+            "clock": "08:14",
+            "leadTeamId": "1610612761",
+            "points": "12"
+        },
+        {
+            "clock": "07:10",
+            "leadTeamId": "1610612761",
+            "points": "14"
+        },
+        {
+            "clock": "06:13",
+            "leadTeamId": "1610612761",
+            "points": "12"
+        },
+        {
+            "clock": "05:46",
+            "leadTeamId": "1610612761",
+            "points": "10"
+        },
+        {
+            "clock": "05:34",
+            "leadTeamId": "1610612761",
+            "points": "11"
+        },
+        {
+            "clock": "05:34",
+            "leadTeamId": "1610612761",
+            "points": "12"
+        },
+        {
+            "clock": "05:02",
+            "leadTeamId": "1610612761",
+            "points": "14"
+        },
+        {
+            "clock": "04:22",
+            "leadTeamId": "1610612761",
+            "points": "13"
+        },
+        {
+            "clock": "04:22",
+            "leadTeamId": "1610612761",
+            "points": "12"
+        },
+        {
+            "clock": "03:32",
+            "leadTeamId": "1610612761",
+            "points": "14"
+        },
+        {
+            "clock": "03:07",
+            "leadTeamId": "1610612761",
+            "points": "11"
+        },
+        {
+            "clock": "02:38",
+            "leadTeamId": "1610612761",
+            "points": "9"
+        },
+        {
+            "clock": "01:22",
+            "leadTeamId": "1610612761",
+            "points": "8"
+        },
+        {
+            "clock": "00:41.9",
+            "leadTeamId": "1610612761",
+            "points": "7"
+        },
+        {
+            "clock": "00:41.9",
+            "leadTeamId": "1610612761",
+            "points": "6"
+        },
+        {
+            "clock": "00:31.9",
+            "leadTeamId": "1610612761",
+            "points": "9"
+        }
+    ]
+}
