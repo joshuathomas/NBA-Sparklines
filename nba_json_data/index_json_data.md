@@ -119,42 +119,18 @@ http://data.nba.net/prod/v1/20200131/0021900726_lead_tracker_4.json
 
 ## Eratta (yes, I'm not using this term correctly - thanks)
 
-### How to Load JS Locally
+### GIT stuff
 
-https://gist.github.com/laurenancona/bd560948d71054e3d1477e43c4d48cb6
+https://egghead.io/lessons/git-git-ignore-a-file-that-has-already-been-committed-and-pushed
 
-This is why I think I'm just going to pass the link through a script tag.
+remove all of our files from our git cache with:
 
-Maybe - depending. There are a lot of json files. Maybe an build an array, then load each into a method.
-```
-function loadJSON(callback)
-{
+``` git rm -r --cached . ```
 
-    var xobj = new XMLHttpRequest();
-    xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'file.json', true);
-    xobj.onreadystatechange = function()
-    {
-        if (xobj.readyState == 4 && xobj.status == "200")
-        {
-            // .open will NOT return a value but simply returns undefined in async mode so use a callback
-            callback(xobj.responseText);
-        }
-    }
-    xobj.send(null);
-}
+and then add back all the files we want with:
 
-// Call to function with anonymous callback
-loadJSON(function(response)
-{
-    // Do Something with the response e.g.
-    //jsonresponse = JSON.parse(response);
+``` git add -A ```
 
-    // Assuming json data is wrapped in square brackets as Drew suggests
-    //console.log(jsonresponse[0].name);
-
-});
-```
 
 
 # HOLY COW!!! IIS!!! 
