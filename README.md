@@ -4,7 +4,7 @@ A very quick, local implementation of Edward Tufte's sparklines using the plotly
 
 https://plot.ly/javascript/
 
-Assumes files are on you webserver in a root directory named: /nba
+Assumes files are on your webserver in a root directory named: /nba
 
 Data being used is from 1/31/20:
 
