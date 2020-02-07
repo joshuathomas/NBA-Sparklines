@@ -131,7 +131,17 @@ and then add back all the files we want with:
 
 ``` git add -A ```
 
+The above sure didn't work on GitHub.
 
+This did:
+
+https://stackoverflow.com/a/1274447
+
+```git rm -cached <file name> ```
+
+```git commit -m "Your funny comment." ```
+
+Well, the command line said it was gone but, it lied. Time to move on and make this a to do.
 
 # HOLY COW!!! IIS!!! 
 
