@@ -157,8 +157,7 @@ loadJSON(function(response)
 ```
 
 
-# HOLY FUCKING SHIT
-### 02022020
+# HOLY COW!!! IIS!!! 
 
 IIS - the "IUSR" and the "IIS_IUSRS" have to be added to the symlink or virtual directory folder TARGET directory!!!
 
