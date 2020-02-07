@@ -12,4 +12,10 @@ Inspired by a fantastic post by Panos Papiotis:
 
 https://towardsdatascience.com/pretending-to-know-about-the-nba-using-python-699177a58685
 
-![Screencapture of NBA Sparklines](./nba_logo_img/nba_sparkline_screencap.png)
+<!-- 
+https://gist.github.com/uupaa/f77d2bcf4dc7a294d109#gistcomment-2180065
+
+My laptop interface is set to 150% - that may have something to do with this weirdness?
+-->
+
+![Screencapture of NBA Sparklines](./nba_logo_img/nba_sparkline_screencap.png?v=100)
