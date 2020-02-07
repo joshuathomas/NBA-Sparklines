@@ -7,6 +7,8 @@ Files/
 *.webp
 *.csv
 
+
+jsonQ.min.js
 Skeleton-2.0.4
 SportsView.ifx
 SportsView.ifx.json
