@@ -141,7 +141,9 @@ https://stackoverflow.com/a/1274447
 
 ```git commit -m "Your funny comment." ```
 
-Well, the command line said it was gone but, it lied. Time to move on and make this a to do.
+Well, the command line said it was gone but, apperantly, it lied. Time to move on and make this a to do.
+
+Well, after giving it a few minutes it seems to have actually worked so, check - task complete!
 
 # HOLY COW!!! IIS!!! 
 
